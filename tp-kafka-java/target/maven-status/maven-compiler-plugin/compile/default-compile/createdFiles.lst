@@ -1,0 +1,5 @@
+tn\utm\kafka\CommandeDeserializer.class
+tn\utm\kafka\CommandeSerializer.class
+tn\utm\kafka\SimpleProducer.class
+tn\utm\kafka\SimpleConsumer.class
+tn\utm\kafka\Commande.class
